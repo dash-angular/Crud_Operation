@@ -1,0 +1,41 @@
+{
+  "productlist": [
+    {
+      "productName": "oppo f11",
+      "category": "Ipad",
+      "date": "2022-09-15T18:30:00.000Z",
+      "productFressness": "Brand New",
+      "price": 9000,
+      "comment": "test",
+      "id": 1
+    },
+    {
+      "productName": "nokia 1100",
+      "category": "Mobile",
+      "date": "2022-09-15T18:30:00.000Z",
+      "productFressness": "Brand New",
+      "price": 90000,
+      "comment": "old mobile",
+      "id": 2
+    },
+    {
+      "productName": "Mercedes",
+      "category": "Car",
+      "date": "2022-09-22T18:30:00.000Z",
+      "productFressness": "Brand New",
+      "price": 290090,
+      "comment": "new car",
+      "id": 3
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
